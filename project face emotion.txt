@@ -1,0 +1,14 @@
+TOOLS: 
+ - Anaconda
+ - Jupyter Notebook
+ - Libraries: Deepface, OpenCV
+PROBLEM IN DATASET:
+ - Imbalance problem
+ - When face hided by hand
+ - Eyeglasses 
+FEATURES:
+ - Haarcascade frontalface Dataset to Detect Faces.
+ - To write emotion we used FONT_HERSHEY_SIMPLEX means normal size sans-serif font family.
+ - DeepFace.analyze method can detect age, emotion, skin color or gender but we detect for one action which is emotion. 
+
+
