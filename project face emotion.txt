@@ -3,9 +3,9 @@ TOOLS:
  - Jupyter Notebook
  - Libraries: Deepface, OpenCV
 PROBLEM IN DATASET:
- - Imbalance problem
+ - Imbalance problem during real time detection
  - When face hided by hand
- - Eyeglasses 
+ - Eye glasses 
 FEATURES:
  - Haarcascade frontalface Dataset to Detect Faces.
  - To write emotion we used FONT_HERSHEY_SIMPLEX means normal size sans-serif font family.
